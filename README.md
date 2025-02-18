@@ -2,7 +2,7 @@
 
 Este proyecto es una página web personal como un diseñador web y desarrollador frontend. La página incluye secciones para mostrar servicios, galería de trabajos, experiencia y un formulario de contacto.
 
-![rosendo-camal](.rosendo-camal.png)
+<img src=".rosendo-camal.png" alt="Vista principal" width="250">
 
 ## Características
 
